@@ -1,0 +1,43 @@
+body{
+  margin: 20px;
+  padding: 0;
+  background-color: #0ff;
+}
+
+fieldset{
+  background-color: #fa0;
+}
+
+legend{
+  background-color: #aaa;
+}
+
+input, select{
+  height: 25px;
+}
+
+input, select, textarea{
+  border: 1px solid #000;
+}
+
+td{
+    padding: 6px 10px;
+}
+
+div{
+  margin-left: 100px;
+}
+
+button{
+  padding: 6px 9px;
+  margin: 6px 10px;
+  color: #fff;
+}
+
+.btn-submit{
+  background-color: #f33;
+}
+
+.btn-reset{
+  background-color: #05f;
+}
